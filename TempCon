@@ -1,0 +1,4 @@
+# Temperature Conversion in Python
+x=int(input( " Enter temperature in Celcius ")
+F=((x*9/5)+32)
+print(" Temperature in Fahrenhiet is: ",F)
